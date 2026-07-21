@@ -1,0 +1,6 @@
+{
+  "name": "Presupuestos Pro",
+  "description": "Generador de Presupuestos Profesional con previsualización y exportación a PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
